@@ -54,7 +54,7 @@ Clone the repository and ignite the engine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/quantumplan.git
+git clone https://github.com/Mehulbirare/quantumplan.git
 
 # 2. Enter the quantum realm
 cd quantumplan
